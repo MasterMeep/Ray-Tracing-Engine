@@ -1,4 +1,5 @@
 **Directions**
+* * *
 This code is meant to be run in unity, it only uses it to store and edit the object posisitions on the scene and nothing else
 to run the code do the following
 
